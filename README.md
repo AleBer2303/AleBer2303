@@ -75,17 +75,12 @@ I am interested in learning ML & AI and would 💖 to grow my knowledge in these
 
 ## ✔ Github Activity
 
+<p align="center">
 <a href="https://github.com/AleBer2303">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleBer2303&theme=tokyonight" />
-  </a>
-
-<a href="https://github.com/AleBer2303">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AleBer2303&show_icons=true&theme=tokyonight&line_height=27" alt="Alejo's github stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AleBer2303&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AleBer2303&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
-<br/>
-<br/>
-<br/><br/><br/>
+</p>
 
 
 ## 🌐 Connect With Me
