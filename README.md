@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 ### About me🧑:
+<img align="right" alt="GIF" src="https://github.com/AleBer2303/AleBer2303/blob/main/21004063.png?raw=true" width="400" height="380" style="border-radius: 50%;" />
 I am Systems Engineer and a Certified Oracle Database Programmer with SQL.<br/>
 I have done Web Development and Android Studio Apps as a FullStack Developer.<br/>
 I am interested in learning ML & AI and would 💖 to grow my knowledge in these Technologies.
 
-<img align="right" alt="GIF" src="https://github.com/AleBer2303/AleBer2303/blob/main/21004063.jpg?raw=true" width="400" height="380" style="border-radius: 50%;" />
+
 
 - 🔭 I’m currently working on Frontend Web Development, Backend Development and Android Development.
 - 🌱 I’m currently learning DP-700 Microsoft Certificate, Fabric Data Engineer Aassociate.
